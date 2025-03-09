@@ -1,2 +1,2 @@
 # coursera2
-cousera
+coursera
